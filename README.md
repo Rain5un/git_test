@@ -1,0 +1,1 @@
+This is Rain5un's first git project!
